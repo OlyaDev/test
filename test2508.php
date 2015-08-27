@@ -4,11 +4,9 @@
 		$img='alien2';
 	elseif ($s >= 10 && $s < 20 || $s >= 40 && $s < 50)
 		$img ='alien';
-	 
+	else	 
 		$img = 'walle';
-// test
 
-// Yes, test GOOD
 ?>
 
 <html>
