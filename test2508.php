@@ -6,6 +6,7 @@
 		$img ='alien';
 	else 
 		$img = 'walle';
+// test
 ?>
 
 <html>
